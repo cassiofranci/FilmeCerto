@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.bak
+*.suo
+/FilmeCerto.Api/appsettings.Development.json
+/FilmeCerto.Api/appsettings.json

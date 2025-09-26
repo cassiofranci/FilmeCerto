@@ -1,0 +1,2206 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Poderoso Chef�o",
+    "ano": 1972,
+    "duracaoEmMinutos": 175,
+    "sinopse": "O patriarca envelhecido de uma dinastia do crime de Nova York, Vito Corleone, passa o controle de seu imp�rio clandestino para seu filho relutante.",
+    "diretor": "Francis Ford Coppola",
+    "elencoPrincipal": "Marlon Brando, Al Pacino, James Caan",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/3oN8oR1d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 1,
+        "generoId": 1
+      },
+      {
+        "filmeId": 1,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Um Sonho de Liberdade",
+    "ano": 1994,
+    "duracaoEmMinutos": 142,
+    "sinopse": "Dois homens presos se conectam ao longo de v�rios anos, encontrando consolo e eventual reden��o atrav�s de atos de dec�ncia comum.",
+    "diretor": "Frank Darabont",
+    "elencoPrincipal": "Tim Robbins, Morgan Freeman",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/2L2s.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 2,
+        "generoId": 1
+      },
+      {
+        "filmeId": 2,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "ano": 2008,
+    "duracaoEmMinutos": 152,
+    "sinopse": "Quando a amea�a conhecida como Coringa causa estragos e caos no povo de Gotham, Batman deve aceitar um dos maiores testes psicol�gicos e f�sicos para combater a injusti�a.",
+    "diretor": "Christopher Nolan",
+    "elencoPrincipal": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/1X6d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 3,
+        "generoId": 4
+      },
+      {
+        "filmeId": 3,
+        "generoId": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Interestelar",
+    "ano": 2014,
+    "duracaoEmMinutos": 169,
+    "sinopse": "Uma equipe de exploradores viaja atrav�s de um buraco de minhoca no espa�o na tentativa de garantir a sobreviv�ncia da humanidade.",
+    "diretor": "Christopher Nolan",
+    "elencoPrincipal": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oE8K.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 4,
+        "generoId": 5
+      },
+      {
+        "filmeId": 4,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "A Origem",
+    "ano": 2010,
+    "duracaoEmMinutos": 148,
+    "sinopse": "Um ladr�o que rouba segredos corporativos atrav�s do uso da tecnologia de compartilhamento de sonhos � encarregado de uma tarefa inversa: plantar uma ideia na mente de um CEO.",
+    "diretor": "Christopher Nolan",
+    "elencoPrincipal": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oJ8C.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 5,
+        "generoId": 5
+      },
+      {
+        "filmeId": 5,
+        "generoId": 6
+      },
+      {
+        "filmeId": 5,
+        "generoId": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Clube da Luta",
+    "ano": 1999,
+    "duracaoEmMinutos": 139,
+    "sinopse": "Um narrador com ins�nia, que busca uma maneira de mudar sua vida, cruza seu caminho com um exc�ntrico produtor de sab�o e forma um clube de luta underground que evolui para algo muito mais.",
+    "diretor": "David Fincher",
+    "elencoPrincipal": "Edward Norton, Brad Pitt, Helena Bonham Carter",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sH8v.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 6,
+        "generoId": 1
+      },
+      {
+        "filmeId": 6,
+        "generoId": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Forrest Gump: O Contador de Hist�rias",
+    "ano": 1994,
+    "duracaoEmMinutos": 142,
+    "sinopse": "As presid�ncias de Kennedy e Johnson, o Vietn�, o caso Watergate e outros eventos not�veis se desenrolam da perspectiva de um homem do Alabama com um QI de 75.",
+    "diretor": "Robert Zemeckis",
+    "elencoPrincipal": "Tom Hanks, Robin Wright, Gary Sinise",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/9oQW.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 7,
+        "generoId": 1
+      },
+      {
+        "filmeId": 7,
+        "generoId": 8
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Matrix",
+    "ano": 1999,
+    "duracaoEmMinutos": 136,
+    "sinopse": "Um programador de computador descobre que a realidade como ele a conhece � uma simula��o, criada por m�quinas inteligentes, e se junta a um grupo de rebeldes para lutar contra elas.",
+    "diretor": "Lana Wachowski",
+    "elencoPrincipal": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 8,
+        "generoId": 5
+      },
+      {
+        "filmeId": 8,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "A Lista de Schindler",
+    "ano": 1993,
+    "duracaoEmMinutos": 195,
+    "sinopse": "Na Pol�nia ocupada pelos nazistas durante a Segunda Guerra Mundial, o industrial Oskar Schindler se torna improvavelmente preocupado com seu trabalho for�ado judeu ao testemunhar sua persegui��o por nazistas.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Liam Neeson, Ben Kingsley, Ralph Fiennes",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 9,
+        "generoId": 1
+      },
+      {
+        "filmeId": 9,
+        "generoId": 9
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "O Senhor dos An�is: O Retorno do Rei",
+    "ano": 2003,
+    "duracaoEmMinutos": 201,
+    "sinopse": "O confronto final entre as for�as do bem e do mal que lutam pelo controle do futuro da Terra-M�dia. Frodo e Sam, guiados por Gollum, se aproximam das fissuras do Monte da Perdi��o.",
+    "diretor": "Peter Jackson",
+    "elencoPrincipal": "Elijah Wood, Ian McKellen, Viggo Mortensen",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 10,
+        "generoId": 10
+      },
+      {
+        "filmeId": 10,
+        "generoId": 11
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Pulp Fiction: Tempo de Viol�ncia",
+    "ano": 1994,
+    "duracaoEmMinutos": 154,
+    "sinopse": "As vidas de dois assassinos da m�fia, um boxeador, a esposa de um gangster e um casal de bandidos se entrela�am em quatro contos de viol�ncia e reden��o.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "John Travolta, Uma Thurman, Samuel L. Jackson",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tFfD.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 11,
+        "generoId": 1
+      },
+      {
+        "filmeId": 11,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "O Resgate do Soldado Ryan",
+    "ano": 1998,
+    "duracaoEmMinutos": 169,
+    "sinopse": "Seguindo o desembarque do Dia D, um grupo de soldados americanos vai atr�s das linhas inimigas para resgatar um paraquedista cujo tr�s irm�os foram mortos em combate.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Tom Hanks, Matt Damon, Tom Sizemore",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 12,
+        "generoId": 9
+      },
+      {
+        "filmeId": 12,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "A Viagem de Chihiro",
+    "ano": 2001,
+    "duracaoEmMinutos": 125,
+    "sinopse": "Durante a mudan�a para um novo sub�rbio, uma garota mal-humorada de 10 anos chamada Chihiro entra em um mundo de deuses, bruxas e esp�ritos, e se torna a aprendiz de uma bruxa para se libertar.",
+    "diretor": "Hayao Miyazaki",
+    "elencoPrincipal": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/3oN8oR1d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 13,
+        "generoId": 13
+      },
+      {
+        "filmeId": 13,
+        "generoId": 14
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "O Iluminado",
+    "ano": 1980,
+    "duracaoEmMinutos": 146,
+    "sinopse": "Uma fam�lia, que se muda para um hotel isolado para o inverno, � aterrorizada por uma presen�a sobrenatural maligna, e o pai entra em um frenesi de loucura, enquanto seu filho tem vis�es ps�quicas do passado e do futuro.",
+    "diretor": "Stanley Kubrick",
+    "elencoPrincipal": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 14,
+        "generoId": 15
+      },
+      {
+        "filmeId": 14,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "A Rede Social",
+    "ano": 2010,
+    "duracaoEmMinutos": 120,
+    "sinopse": "O bilion�rio Mark Zuckerberg, o fundador do Facebook, enfrenta uma a��o judicial de dois irm�os que alegam que ele roubou a ideia do site deles, e de seu co-fundador, que foi injustamente demitido da empresa.",
+    "diretor": "David Fincher",
+    "elencoPrincipal": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 15,
+        "generoId": 1
+      },
+      {
+        "filmeId": 15,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "O Fabuloso Destino de Am�lie Poulain",
+    "ano": 2001,
+    "duracaoEmMinutos": 122,
+    "sinopse": "Em Paris, uma jovem ing�nua e exc�ntrica chamada Am�lie decide dedicar sua vida a fazer o bem ao seu redor, mas sua busca pelo amor pr�prio a leva a uma jornada inesperada.",
+    "diretor": "Jean-Pierre Jeunet",
+    "elencoPrincipal": "Audrey Tautou, Mathieu Kassovitz, Jamel Debbouze",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sC8o.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 16,
+        "generoId": 17
+      },
+      {
+        "filmeId": 16,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "titulo": "Tubar�o",
+    "ano": 1975,
+    "duracaoEmMinutos": 124,
+    "sinopse": "Quando um enorme tubar�o branco aterroriza uma comunidade de praia, um chefe de pol�cia, um ocean�grafo e um velho ca�ador de tubar�es se unem para ca��-lo.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 17,
+        "generoId": 19
+      },
+      {
+        "filmeId": 17,
+        "generoId": 20
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "titulo": "O Sexto Sentido",
+    "ano": 1999,
+    "duracaoEmMinutos": 107,
+    "sinopse": "Um psic�logo infantil tenta ajudar um garoto que consegue ver e falar com os mortos, enquanto tenta descobrir a causa de seu pr�prio trauma.",
+    "diretor": "M. Night Shyamalan",
+    "elencoPrincipal": "Bruce Willis, Haley Joel Osment, Toni Collette",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 18,
+        "generoId": 16
+      },
+      {
+        "filmeId": 18,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "titulo": "O Labirinto do Fauno",
+    "ano": 2006,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Na Espanha em 1944, a filha de um oficial s�dico da guerra civil escapa para um mundo de fantasia, onde ela deve completar tr�s tarefas perigosas para se tornar imortal e escapar da crueldade.",
+    "diretor": "Guillermo del Toro",
+    "elencoPrincipal": "Ivana Baquero, Sergi L�pez, Maribel Verd�",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sC8o.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 19,
+        "generoId": 10
+      },
+      {
+        "filmeId": 19,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "titulo": "Up: Altas Aventuras",
+    "ano": 2009,
+    "duracaoEmMinutos": 96,
+    "sinopse": "Um velho vi�vo e um jovem escoteiro embarcam em uma aventura em uma casa flutuante, mas sua jornada se torna perigosa quando eles se encontram em um mundo de dinossauros e um vil�o maligno.",
+    "diretor": "Pete Docter",
+    "elencoPrincipal": "Edward Asner, Christopher Plummer, Jordan Nagai",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 20,
+        "generoId": 13
+      },
+      {
+        "filmeId": 20,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "titulo": "O Senhor das Armas",
+    "ano": 2005,
+    "duracaoEmMinutos": 122,
+    "sinopse": "A vida de um traficante de armas ucraniano � documentada desde o seu in�cio, passando por sua ascens�o e queda, at� a sua �ltima miss�o.",
+    "diretor": "Andrew Niccol",
+    "elencoPrincipal": "Nicolas Cage, Jared Leto, Bridget Moynahan",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 21,
+        "generoId": 1
+      },
+      {
+        "filmeId": 21,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "titulo": "A Chegada",
+    "ano": 2016,
+    "duracaoEmMinutos": 116,
+    "sinopse": "A linguista Louise Banks � contratada pelos militares para traduzir a linguagem de alien�genas que pousaram na Terra, e ela deve faz�-lo antes que a tens�o internacional leve a uma guerra intergal�ctica.",
+    "diretor": "Denis Villeneuve",
+    "elencoPrincipal": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 22,
+        "generoId": 6
+      },
+      {
+        "filmeId": 22,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "titulo": "Bastardos Ingl�rios",
+    "ano": 2009,
+    "duracaoEmMinutos": 153,
+    "sinopse": "Na Fran�a ocupada pelos nazistas durante a Segunda Guerra Mundial, um grupo de soldados americanos judeus � encarregado de ca�ar e matar oficiais nazistas. Eles se juntam a uma agente secreta brit�nica, que tamb�m est� em uma miss�o de ca�a.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "Brad Pitt, Christoph Waltz, Eli Roth",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 23,
+        "generoId": 9
+      },
+      {
+        "filmeId": 23,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "titulo": "Na Natureza Selvagem",
+    "ano": 2007,
+    "duracaoEmMinutos": 148,
+    "sinopse": "Ap�s se formar como o melhor aluno de sua turma, Christopher McCandless decide abandonar sua vida confort�vel para viajar para o Alasca e viver na natureza selvagem, mas sua jornada se torna uma li��o de vida e morte.",
+    "diretor": "Sean Penn",
+    "elencoPrincipal": "Emile Hirsch, Marcia Gay Harden, William Hurt",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 24,
+        "generoId": 1
+      },
+      {
+        "filmeId": 24,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "titulo": "A Bela e a Fera",
+    "ano": 1991,
+    "duracaoEmMinutos": 84,
+    "sinopse": "Uma jovem e inteligente mulher � aprisionada por uma fera em seu castelo, mas ela aprende a amar a fera, e eles se unem para se defender de um vil�o que deseja a morte da fera.",
+    "diretor": "Gary Trousdale, Kirk Wise",
+    "elencoPrincipal": "Paige O'Hara, Robby Benson, Richard White",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sC8o.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 25,
+        "generoId": 13
+      },
+      {
+        "filmeId": 25,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "titulo": "Onde os Fracos N�o T�m Vez",
+    "ano": 2007,
+    "duracaoEmMinutos": 122,
+    "sinopse": "No Texas de 1980, um ca�ador de veados trope�a em uma negocia��o de drogas fracassada e decide fugir com uma mala cheia de dinheiro, mas ele se torna o alvo de um ca�ador de recompensas psicopata.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Josh Brolin, Javier Bardem, Tommy Lee Jones",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 26,
+        "generoId": 1
+      },
+      {
+        "filmeId": 26,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "duracaoEmMinutos": 81,
+    "sinopse": "Um caub�i de brinquedo, o brinquedo favorito de um garoto, se sente amea�ado quando seu dono ganha um novo brinquedo, um astronauta de �ltima gera��o, e eles precisam se unir para escapar de um vil�o.",
+    "diretor": "John Lasseter",
+    "elencoPrincipal": "Tom Hanks, Tim Allen, Don Rickles",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 27,
+        "generoId": 13
+      },
+      {
+        "filmeId": 27,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "titulo": "O Sil�ncio dos Inocentes",
+    "ano": 1991,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Uma jovem cadete do FBI deve encontrar um assassino em s�rie que est� matando jovens mulheres, e para fazer isso, ela deve obter a ajuda de um psiquiatra brilhante, mas canibal e perigoso.",
+    "diretor": "Jonathan Demme",
+    "elencoPrincipal": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 28,
+        "generoId": 16
+      },
+      {
+        "filmeId": 28,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "titulo": "V de Vingan�a",
+    "ano": 2005,
+    "duracaoEmMinutos": 132,
+    "sinopse": "Em uma Inglaterra fascista, um vigilante mascarado, conhecido como V, se une a uma mulher jovem para lutar contra um governo opressor.",
+    "diretor": "James McTeigue",
+    "elencoPrincipal": "Natalie Portman, Hugo Weaving, Stephen Rea",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 29,
+        "generoId": 5
+      },
+      {
+        "filmeId": 29,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "titulo": "O Grande Lebowski",
+    "ano": 1998,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Jeff 'O Cara' Lebowski, um jogador de boliche desempregado, � confundido com um milion�rio, e ele se envolve em um sequestro e extors�o de um plano perigoso.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Jeff Bridges, John Goodman, Julianne Moore",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 30,
+        "generoId": 17
+      },
+      {
+        "filmeId": 30,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "titulo": "Cidade de Deus",
+    "ano": 2002,
+    "duracaoEmMinutos": 130,
+    "sinopse": "No Rio de Janeiro, um jovem fot�grafo documenta a vida violenta de uma gangue de traficantes, e ele tenta sobreviver em meio ao caos e � crueldade.",
+    "diretor": "Fernando Meirelles, K�tia Lund",
+    "elencoPrincipal": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 31,
+        "generoId": 1
+      },
+      {
+        "filmeId": 31,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+    "ano": 1991,
+    "duracaoEmMinutos": 137,
+    "sinopse": "Um ciborgue do futuro � enviado para proteger um jovem de outro ciborgue que foi enviado para mat�-lo.",
+    "diretor": "James Cameron",
+    "elencoPrincipal": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 32,
+        "generoId": 5
+      },
+      {
+        "filmeId": 32,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "titulo": "A Pequena Sereia",
+    "ano": 1989,
+    "duracaoEmMinutos": 83,
+    "sinopse": "Uma princesa sereia se apaixona por um pr�ncipe humano, e ela faz um acordo perigoso com uma bruxa para se tornar humana e conquistar o amor do pr�ncipe.",
+    "diretor": "Ron Clements, John Musker",
+    "elencoPrincipal": "Jodi Benson, Christopher Daniel Barnes, Pat Carroll",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 33,
+        "generoId": 13
+      },
+      {
+        "filmeId": 33,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "titulo": "Os Oito Odiados",
+    "ano": 2015,
+    "duracaoEmMinutos": 168,
+    "sinopse": "No Wyoming p�s-Guerra Civil, um ca�ador de recompensas e sua prisioneira se abrigam em uma pousada isolada durante uma tempestade de neve, onde eles encontram um grupo de estranhos com segredos.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 34,
+        "generoId": 1
+      },
+      {
+        "filmeId": 34,
+        "generoId": 22
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "titulo": "Mad Max: Estrada da F�ria",
+    "ano": 2015,
+    "duracaoEmMinutos": 120,
+    "sinopse": "Em um futuro des�rtico, um drifter se une a uma l�der rebelde para escapar de um tirano, mas eles s�o perseguidos por uma gangue de bandidos.",
+    "diretor": "George Miller",
+    "elencoPrincipal": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 35,
+        "generoId": 5
+      },
+      {
+        "filmeId": 35,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "titulo": "O Grande Ditador",
+    "ano": 1940,
+    "duracaoEmMinutos": 125,
+    "sinopse": "Um barbeiro judeu se assemelha a um ditador fascista, e ele se envolve em um plano para derrubar o ditador e restaurar a paz em seu pa�s.",
+    "diretor": "Charles Chaplin",
+    "elencoPrincipal": "Charles Chaplin, Paulette Goddard, Jack Oakie",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/3oN8oR1d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 36,
+        "generoId": 17
+      },
+      {
+        "filmeId": 36,
+        "generoId": 9
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "titulo": "De Volta para o Futuro",
+    "ano": 1985,
+    "duracaoEmMinutos": 116,
+    "sinopse": "Um adolescente � acidentalmente enviado 30 anos no passado em um carro que viaja no tempo, e ele deve garantir que seus pais se apaixonem para que ele possa voltar para casa.",
+    "diretor": "Robert Zemeckis",
+    "elencoPrincipal": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/2L2s.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 37,
+        "generoId": 6
+      },
+      {
+        "filmeId": 37,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "titulo": "O Exterminador do Futuro",
+    "ano": 1984,
+    "duracaoEmMinutos": 107,
+    "sinopse": "Um ciborgue assassino � enviado do futuro para matar uma mulher cujo filho se tornar� um l�der da resist�ncia humana contra as m�quinas.",
+    "diretor": "James Cameron",
+    "elencoPrincipal": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/1X6d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 38,
+        "generoId": 5
+      },
+      {
+        "filmeId": 38,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "titulo": "Beleza Americana",
+    "ano": 1999,
+    "duracaoEmMinutos": 122,
+    "sinopse": "Um pai de fam�lia infeliz no sub�rbio decola em uma crise de meia-idade, enquanto sua filha e seu marido tentam lidar com suas vidas.",
+    "diretor": "Sam Mendes",
+    "elencoPrincipal": "Kevin Spacey, Annette Bening, Thora Birch",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oE8K.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 39,
+        "generoId": 1
+      },
+      {
+        "filmeId": 39,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "titulo": "Duro de Matar",
+    "ano": 1988,
+    "duracaoEmMinutos": 132,
+    "sinopse": "Um policial de Nova York, em uma festa de Natal em Los Angeles, deve lutar contra um grupo de terroristas que assumiram o controle do pr�dio e mantiveram o p�blico como ref�ns.",
+    "diretor": "John McTiernan",
+    "elencoPrincipal": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oJ8C.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 40,
+        "generoId": 5
+      },
+      {
+        "filmeId": 40,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "titulo": "Gladiador",
+    "ano": 2000,
+    "duracaoEmMinutos": 155,
+    "sinopse": "Um general romano � tra�do e sua fam�lia � assassinada por um imperador corrupto, e ele retorna a Roma como um gladiador para se vingar.",
+    "diretor": "Ridley Scott",
+    "elencoPrincipal": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sH8v.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 41,
+        "generoId": 5
+      },
+      {
+        "filmeId": 41,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "titulo": "Titanic",
+    "ano": 1997,
+    "duracaoEmMinutos": 195,
+    "sinopse": "Uma socialite de classe alta se apaixona por um artista pobre a bordo do navio Titanic, mas sua jornada se torna perigosa quando o navio colide com um iceberg.",
+    "diretor": "James Cameron",
+    "elencoPrincipal": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/9oQW.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 42,
+        "generoId": 1
+      },
+      {
+        "filmeId": 42,
+        "generoId": 8
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "titulo": "Jurassic Park: Parque dos Dinossauros",
+    "ano": 1993,
+    "duracaoEmMinutos": 127,
+    "sinopse": "Um bilion�rio exc�ntrico cria um parque de divers�es com dinossauros clonados, mas o parque se torna perigoso quando os dinossauros escapam e ca�am os visitantes.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 43,
+        "generoId": 6
+      },
+      {
+        "filmeId": 43,
+        "generoId": 23
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "titulo": "O Bom, o Mau e o Feio",
+    "ano": 1966,
+    "duracaoEmMinutos": 161,
+    "sinopse": "Em meio a uma guerra civil, tr�s homens, um pistoleiro solit�rio, um assassino frio e um criminoso procurado, competem para encontrar um tesouro enterrado.",
+    "diretor": "Sergio Leone",
+    "elencoPrincipal": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 44,
+        "generoId": 22
+      },
+      {
+        "filmeId": 44,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "titulo": "A Procura da Felicidade",
+    "ano": 2006,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Um pai de fam�lia luta para sobreviver e dar a seu filho uma vida melhor, mas ele � confrontado com a pobreza e a falta de oportunidades.",
+    "diretor": "Gabriele Muccino",
+    "elencoPrincipal": "Will Smith, Jaden Smith, Thandie Newton",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 45,
+        "generoId": 1
+      },
+      {
+        "filmeId": 45,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "titulo": "O Exorcista",
+    "ano": 1973,
+    "duracaoEmMinutos": 122,
+    "sinopse": "Um padre, que questiona sua f�, � convocado para ajudar uma garota de 12 anos que est� possu�da por um dem�nio, e ele deve confrontar seus pr�prios medos para salvar a garota.",
+    "diretor": "William Friedkin",
+    "elencoPrincipal": "Ellen Burstyn, Max von Sydow, Linda Blair",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 46,
+        "generoId": 15
+      },
+      {
+        "filmeId": 46,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "titulo": "Star Wars: Epis�dio V - O Imp�rio Contra-Ataca",
+    "ano": 1980,
+    "duracaoEmMinutos": 124,
+    "sinopse": "A Alian�a Rebelde, liderada por Luke Skywalker, � confrontada pelas for�as do Imp�rio Gal�ctico. Han Solo e Princesa Leia s�o perseguidos por Darth Vader, enquanto Luke treina com Yoda para se tornar um Jedi.",
+    "diretor": "Irvin Kershner",
+    "elencoPrincipal": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 47,
+        "generoId": 5
+      },
+      {
+        "filmeId": 47,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "titulo": "O Pianista",
+    "ano": 2002,
+    "duracaoEmMinutos": 150,
+    "sinopse": "Um pianista polon�s judeu luta para sobreviver no gueto de Vars�via durante a Segunda Guerra Mundial, e ele deve se esconder para evitar ser levado para um campo de concentra��o.",
+    "diretor": "Roman Polanski",
+    "elencoPrincipal": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 48,
+        "generoId": 1
+      },
+      {
+        "filmeId": 48,
+        "generoId": 9
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "titulo": "O Exorcista: O In�cio",
+    "ano": 2004,
+    "duracaoEmMinutos": 114,
+    "sinopse": "Um padre, que questiona sua f�, � convocado para ajudar uma garota de 12 anos que est� possu�da por um dem�nio, e ele deve confrontar seus pr�prios medos para salvar a garota.",
+    "diretor": "Renny Harlin",
+    "elencoPrincipal": "Stellan Skarsg�rd, Izabella Scorupco, James D'Arcy",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 49,
+        "generoId": 15
+      },
+      {
+        "filmeId": 49,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "titulo": "O M�gico de Oz",
+    "ano": 1939,
+    "duracaoEmMinutos": 102,
+    "sinopse": "Uma garota do Kansas e seu cachorro s�o levados por um tornado para a terra m�gica de Oz, e ela embarca em uma jornada para encontrar o m�gico que pode ajud�-la a voltar para casa.",
+    "diretor": "Victor Fleming",
+    "elencoPrincipal": "Judy Garland, Frank Morgan, Ray Bolger",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/3oN8oR1d.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 50,
+        "generoId": 10
+      },
+      {
+        "filmeId": 50,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "titulo": "Blade Runner: O Ca�ador de Androides",
+    "ano": 1982,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Em Los Angeles de 2019, um ex-policial � chamado para ca�ar um grupo de andr�ides renegados que retornaram � Terra para se vingar.",
+    "diretor": "Ridley Scott",
+    "elencoPrincipal": "Harrison Ford, Rutger Hauer, Sean Young",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oJ8C.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 51,
+        "generoId": 6
+      },
+      {
+        "filmeId": 51,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "titulo": "O Senhor das Armas",
+    "ano": 2005,
+    "duracaoEmMinutos": 122,
+    "sinopse": "A vida de um traficante de armas ucraniano � documentada desde o seu in�cio, passando por sua ascens�o e queda, at� a sua �ltima miss�o.",
+    "diretor": "Andrew Niccol",
+    "elencoPrincipal": "Nicolas Cage, Jared Leto, Bridget Moynahan",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/fS1A.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 52,
+        "generoId": 1
+      },
+      {
+        "filmeId": 52,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "titulo": "A Chegada",
+    "ano": 2016,
+    "duracaoEmMinutos": 116,
+    "sinopse": "A linguista Louise Banks � contratada pelos militares para traduzir a linguagem de alien�genas que pousaram na Terra, e ela deve faz�-lo antes que a tens�o internacional leve a uma guerra intergal�ctica.",
+    "diretor": "Denis Villeneuve",
+    "elencoPrincipal": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 53,
+        "generoId": 6
+      },
+      {
+        "filmeId": 53,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "titulo": "Bastardos Ingl�rios",
+    "ano": 2009,
+    "duracaoEmMinutos": 153,
+    "sinopse": "Na Fran�a ocupada pelos nazistas durante a Segunda Guerra Mundial, um grupo de soldados americanos judeus � encarregado de ca�ar e matar oficiais nazistas. Eles se juntam a uma agente secreta brit�nica, que tamb�m est� em uma miss�o de ca�a.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "Brad Pitt, Christoph Waltz, Eli Roth",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 54,
+        "generoId": 9
+      },
+      {
+        "filmeId": 54,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "titulo": "Na Natureza Selvagem",
+    "ano": 2007,
+    "duracaoEmMinutos": 148,
+    "sinopse": "Ap�s se formar como o melhor aluno de sua turma, Christopher McCandless decide abandonar sua vida confort�vel para viajar para o Alasca e viver na natureza selvagem, mas sua jornada se torna uma li��o de vida e morte.",
+    "diretor": "Sean Penn",
+    "elencoPrincipal": "Emile Hirsch, Marcia Gay Harden, William Hurt",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 55,
+        "generoId": 1
+      },
+      {
+        "filmeId": 55,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "titulo": "A Bela e a Fera",
+    "ano": 1991,
+    "duracaoEmMinutos": 84,
+    "sinopse": "Uma jovem e inteligente mulher � aprisionada por uma fera em seu castelo, mas ela aprende a amar a fera, e eles se unem para se defender de um vil�o que deseja a morte da fera.",
+    "diretor": "Gary Trousdale, Kirk Wise",
+    "elencoPrincipal": "Paige O'Hara, Robby Benson, Richard White",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 56,
+        "generoId": 13
+      },
+      {
+        "filmeId": 56,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "titulo": "Onde os Fracos N�o T�m Vez",
+    "ano": 2007,
+    "duracaoEmMinutos": 122,
+    "sinopse": "No Texas de 1980, um ca�ador de veados trope�a em uma negocia��o de drogas fracassada e decide fugir com uma mala cheia de dinheiro, mas ele se torna o alvo de um ca�ador de recompensas psicopata.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Josh Brolin, Javier Bardem, Tommy Lee Jones",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 57,
+        "generoId": 1
+      },
+      {
+        "filmeId": 57,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "duracaoEmMinutos": 81,
+    "sinopse": "Um caub�i de brinquedo, o brinquedo favorito de um garoto, se sente amea�ado quando seu dono ganha um novo brinquedo, um astronauta de �ltima gera��o, e eles precisam se unir para escapar de um vil�o.",
+    "diretor": "John Lasseter",
+    "elencoPrincipal": "Tom Hanks, Tim Allen, Don Rickles",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 58,
+        "generoId": 13
+      },
+      {
+        "filmeId": 58,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "titulo": "O Sil�ncio dos Inocentes",
+    "ano": 1991,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Uma jovem cadete do FBI deve encontrar um assassino em s�rie que est� matando jovens mulheres, e para fazer isso, ela deve obter a ajuda de um psiquiatra brilhante, mas canibal e perigoso.",
+    "diretor": "Jonathan Demme",
+    "elencoPrincipal": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 59,
+        "generoId": 16
+      },
+      {
+        "filmeId": 59,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "titulo": "V de Vingan�a",
+    "ano": 2005,
+    "duracaoEmMinutos": 132,
+    "sinopse": "Em uma Inglaterra fascista, um vigilante mascarado, conhecido como V, se une a uma mulher jovem para lutar contra um governo opressor.",
+    "diretor": "James McTeigue",
+    "elencoPrincipal": "Natalie Portman, Hugo Weaving, Stephen Rea",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 60,
+        "generoId": 5
+      },
+      {
+        "filmeId": 60,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "titulo": "O Grande Lebowski",
+    "ano": 1998,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Jeff 'O Cara' Lebowski, um jogador de boliche desempregado, � confundido com um milion�rio, e ele se envolve em um sequestro e extors�o de um plano perigoso.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Jeff Bridges, John Goodman, Julianne Moore",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oJ8C.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 61,
+        "generoId": 17
+      },
+      {
+        "filmeId": 61,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "titulo": "A Viagem de Chihiro",
+    "ano": 2001,
+    "duracaoEmMinutos": 125,
+    "sinopse": "Durante a mudan�a para um novo sub�rbio, uma garota mal-humorada de 10 anos chamada Chihiro entra em um mundo de deuses, bruxas e esp�ritos, e se torna a aprendiz de uma bruxa para se libertar.",
+    "diretor": "Hayao Miyazaki",
+    "elencoPrincipal": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sC8o.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 62,
+        "generoId": 13
+      },
+      {
+        "filmeId": 62,
+        "generoId": 14
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "titulo": "O Iluminado",
+    "ano": 1980,
+    "duracaoEmMinutos": 146,
+    "sinopse": "Uma fam�lia, que se muda para um hotel isolado para o inverno, � aterrorizada por uma presen�a sobrenatural maligna, e o pai entra em um frenesi de loucura, enquanto seu filho tem vis�es ps�quicas do passado e do futuro.",
+    "diretor": "Stanley Kubrick",
+    "elencoPrincipal": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 63,
+        "generoId": 15
+      },
+      {
+        "filmeId": 63,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "titulo": "A Rede Social",
+    "ano": 2010,
+    "duracaoEmMinutos": 120,
+    "sinopse": "O bilion�rio Mark Zuckerberg, o fundador do Facebook, enfrenta uma a��o judicial de dois irm�os que alegam que ele roubou a ideia do site deles, e de seu co-fundador, que foi injustamente demitido da empresa.",
+    "diretor": "David Fincher",
+    "elencoPrincipal": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 64,
+        "generoId": 1
+      },
+      {
+        "filmeId": 64,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "titulo": "O Fabuloso Destino de Am�lie Poulain",
+    "ano": 2001,
+    "duracaoEmMinutos": 122,
+    "sinopse": "Em Paris, uma jovem ing�nua e exc�ntrica chamada Am�lie decide dedicar sua vida a fazer o bem ao seu redor, mas sua busca pelo amor pr�prio a leva a uma jornada inesperada.",
+    "diretor": "Jean-Pierre Jeunet",
+    "elencoPrincipal": "Audrey Tautou, Mathieu Kassovitz, Jamel Debbouze",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 65,
+        "generoId": 17
+      },
+      {
+        "filmeId": 65,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "titulo": "Tubar�o",
+    "ano": 1975,
+    "duracaoEmMinutos": 124,
+    "sinopse": "Quando um enorme tubar�o branco aterroriza uma comunidade de praia, um chefe de pol�cia, um ocean�grafo e um velho ca�ador de tubar�es se unem para ca��-lo.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 66,
+        "generoId": 19
+      },
+      {
+        "filmeId": 66,
+        "generoId": 20
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "titulo": "O Sexto Sentido",
+    "ano": 1999,
+    "duracaoEmMinutos": 107,
+    "sinopse": "Um psic�logo infantil tenta ajudar um garoto que consegue ver e falar com os mortos, enquanto tenta descobrir a causa de seu pr�prio trauma.",
+    "diretor": "M. Night Shyamalan",
+    "elencoPrincipal": "Bruce Willis, Haley Joel Osment, Toni Collette",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 67,
+        "generoId": 16
+      },
+      {
+        "filmeId": 67,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "titulo": "O Labirinto do Fauno",
+    "ano": 2006,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Na Espanha em 1944, a filha de um oficial s�dico da guerra civil escapa para um mundo de fantasia, onde ela deve completar tr�s tarefas perigosas para se tornar imortal e escapar da crueldade.",
+    "diretor": "Guillermo del Toro",
+    "elencoPrincipal": "Ivana Baquero, Sergi L�pez, Maribel Verd�",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 68,
+        "generoId": 10
+      },
+      {
+        "filmeId": 68,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "titulo": "Up: Altas Aventuras",
+    "ano": 2009,
+    "duracaoEmMinutos": 96,
+    "sinopse": "Um velho vi�vo e um jovem escoteiro embarcam em uma aventura em uma casa flutuante, mas sua jornada se torna perigosa quando eles se encontram em um mundo de dinossauros e um vil�o maligno.",
+    "diretor": "Pete Docter",
+    "elencoPrincipal": "Edward Asner, Christopher Plummer, Jordan Nagai",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 69,
+        "generoId": 13
+      },
+      {
+        "filmeId": 69,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "titulo": "O Senhor das Armas",
+    "ano": 2005,
+    "duracaoEmMinutos": 122,
+    "sinopse": "A vida de um traficante de armas ucraniano � documentada desde o seu in�cio, passando por sua ascens�o e queda, at� a sua �ltima miss�o.",
+    "diretor": "Andrew Niccol",
+    "elencoPrincipal": "Nicolas Cage, Jared Leto, Bridget Moynahan",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 70,
+        "generoId": 1
+      },
+      {
+        "filmeId": 70,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "titulo": "A Chegada",
+    "ano": 2016,
+    "duracaoEmMinutos": 116,
+    "sinopse": "A linguista Louise Banks � contratada pelos militares para traduzir a linguagem de alien�genas que pousaram na Terra, e ela deve faz�-lo antes que a tens�o internacional leve a uma guerra intergal�ctica.",
+    "diretor": "Denis Villeneuve",
+    "elencoPrincipal": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 71,
+        "generoId": 6
+      },
+      {
+        "filmeId": 71,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "titulo": "Bastardos Ingl�rios",
+    "ano": 2009,
+    "duracaoEmMinutos": 153,
+    "sinopse": "Na Fran�a ocupada pelos nazistas durante a Segunda Guerra Mundial, um grupo de soldados americanos judeus � encarregado de ca�ar e matar oficiais nazistas. Eles se juntam a uma agente secreta brit�nica, que tamb�m est� em uma miss�o de ca�a.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "Brad Pitt, Christoph Waltz, Eli Roth",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 72,
+        "generoId": 9
+      },
+      {
+        "filmeId": 72,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "titulo": "Na Natureza Selvagem",
+    "ano": 2007,
+    "duracaoEmMinutos": 148,
+    "sinopse": "Ap�s se formar como o melhor aluno de sua turma, Christopher McCandless decide abandonar sua vida confort�vel para viajar para o Alasca e viver na natureza selvagem, mas sua jornada se torna uma li��o de vida e morte.",
+    "diretor": "Sean Penn",
+    "elencoPrincipal": "Emile Hirsch, Marcia Gay Harden, William Hurt",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 73,
+        "generoId": 1
+      },
+      {
+        "filmeId": 73,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "titulo": "A Bela e a Fera",
+    "ano": 1991,
+    "duracaoEmMinutos": 84,
+    "sinopse": "Uma jovem e inteligente mulher � aprisionada por uma fera em seu castelo, mas ela aprende a amar a fera, e eles se unem para se defender de um vil�o que deseja a morte da fera.",
+    "diretor": "Gary Trousdale, Kirk Wise",
+    "elencoPrincipal": "Paige O'Hara, Robby Benson, Richard White",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 74,
+        "generoId": 13
+      },
+      {
+        "filmeId": 74,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "titulo": "Onde os Fracos N�o T�m Vez",
+    "ano": 2007,
+    "duracaoEmMinutos": 122,
+    "sinopse": "No Texas de 1980, um ca�ador de veados trope�a em uma negocia��o de drogas fracassada e decide fugir com uma mala cheia de dinheiro, mas ele se torna o alvo de um ca�ador de recompensas psicopata.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Josh Brolin, Javier Bardem, Tommy Lee Jones",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 75,
+        "generoId": 1
+      },
+      {
+        "filmeId": 75,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "duracaoEmMinutos": 81,
+    "sinopse": "Um caub�i de brinquedo, o brinquedo favorito de um garoto, se sente amea�ado quando seu dono ganha um novo brinquedo, um astronauta de �ltima gera��o, e eles precisam se unir para escapar de um vil�o.",
+    "diretor": "John Lasseter",
+    "elencoPrincipal": "Tom Hanks, Tim Allen, Don Rickles",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 76,
+        "generoId": 13
+      },
+      {
+        "filmeId": 76,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "titulo": "O Sil�ncio dos Inocentes",
+    "ano": 1991,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Uma jovem cadete do FBI deve encontrar um assassino em s�rie que est� matando jovens mulheres, e para fazer isso, ela deve obter a ajuda de um psiquiatra brilhante, mas canibal e perigoso.",
+    "diretor": "Jonathan Demme",
+    "elencoPrincipal": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 77,
+        "generoId": 16
+      },
+      {
+        "filmeId": 77,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "titulo": "V de Vingan�a",
+    "ano": 2005,
+    "duracaoEmMinutos": 132,
+    "sinopse": "Em uma Inglaterra fascista, um vigilante mascarado, conhecido como V, se une a uma mulher jovem para lutar contra um governo opressor.",
+    "diretor": "James McTeigue",
+    "elencoPrincipal": "Natalie Portman, Hugo Weaving, Stephen Rea",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 78,
+        "generoId": 5
+      },
+      {
+        "filmeId": 78,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "titulo": "O Grande Lebowski",
+    "ano": 1998,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Jeff 'O Cara' Lebowski, um jogador de boliche desempregado, � confundido com um milion�rio, e ele se envolve em um sequestro e extors�o de um plano perigoso.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Jeff Bridges, John Goodman, Julianne Moore",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 79,
+        "generoId": 17
+      },
+      {
+        "filmeId": 79,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "titulo": "A Viagem de Chihiro",
+    "ano": 2001,
+    "duracaoEmMinutos": 125,
+    "sinopse": "Durante a mudan�a para um novo sub�rbio, uma garota mal-humorada de 10 anos chamada Chihiro entra em um mundo de deuses, bruxas e esp�ritos, e se torna a aprendiz de uma bruxa para se libertar.",
+    "diretor": "Hayao Miyazaki",
+    "elencoPrincipal": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 80,
+        "generoId": 13
+      },
+      {
+        "filmeId": 80,
+        "generoId": 14
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "titulo": "O Iluminado",
+    "ano": 1980,
+    "duracaoEmMinutos": 146,
+    "sinopse": "Uma fam�lia, que se muda para um hotel isolado para o inverno, � aterrorizada por uma presen�a sobrenatural maligna, e o pai entra em um frenesi de loucura, enquanto seu filho tem vis�es ps�quicas do passado e do futuro.",
+    "diretor": "Stanley Kubrick",
+    "elencoPrincipal": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 81,
+        "generoId": 15
+      },
+      {
+        "filmeId": 81,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "titulo": "A Rede Social",
+    "ano": 2010,
+    "duracaoEmMinutos": 120,
+    "sinopse": "O bilion�rio Mark Zuckerberg, o fundador do Facebook, enfrenta uma a��o judicial de dois irm�os que alegam que ele roubou a ideia do site deles, e de seu co-fundador, que foi injustamente demitido da empresa.",
+    "diretor": "David Fincher",
+    "elencoPrincipal": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 82,
+        "generoId": 1
+      },
+      {
+        "filmeId": 82,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "titulo": "O Fabuloso Destino de Am�lie Poulain",
+    "ano": 2001,
+    "duracaoEmMinutos": 122,
+    "sinopse": "Em Paris, uma jovem ing�nua e exc�ntrica chamada Am�lie decide dedicar sua vida a fazer o bem ao seu redor, mas sua busca pelo amor pr�prio a leva a uma jornada inesperada.",
+    "diretor": "Jean-Pierre Jeunet",
+    "elencoPrincipal": "Audrey Tautou, Mathieu Kassovitz, Jamel Debbouze",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 83,
+        "generoId": 17
+      },
+      {
+        "filmeId": 83,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "titulo": "Tubar�o",
+    "ano": 1975,
+    "duracaoEmMinutos": 124,
+    "sinopse": "Quando um enorme tubar�o branco aterroriza uma comunidade de praia, um chefe de pol�cia, um ocean�grafo e um velho ca�ador de tubar�es se unem para ca��-lo.",
+    "diretor": "Steven Spielberg",
+    "elencoPrincipal": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 84,
+        "generoId": 19
+      },
+      {
+        "filmeId": 84,
+        "generoId": 20
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "titulo": "O Sexto Sentido",
+    "ano": 1999,
+    "duracaoEmMinutos": 107,
+    "sinopse": "Um psic�logo infantil tenta ajudar um garoto que consegue ver e falar com os mortos, enquanto tenta descobrir a causa de seu pr�prio trauma.",
+    "diretor": "M. Night Shyamalan",
+    "elencoPrincipal": "Bruce Willis, Haley Joel Osment, Toni Collette",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 85,
+        "generoId": 16
+      },
+      {
+        "filmeId": 85,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "titulo": "O Labirinto do Fauno",
+    "ano": 2006,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Na Espanha em 1944, a filha de um oficial s�dico da guerra civil escapa para um mundo de fantasia, onde ela deve completar tr�s tarefas perigosas para se tornar imortal e escapar da crueldade.",
+    "diretor": "Guillermo del Toro",
+    "elencoPrincipal": "Ivana Baquero, Sergi L�pez, Maribel Verd�",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 86,
+        "generoId": 10
+      },
+      {
+        "filmeId": 86,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "titulo": "Up: Altas Aventuras",
+    "ano": 2009,
+    "duracaoEmMinutos": 96,
+    "sinopse": "Um velho vi�vo e um jovem escoteiro embarcam em uma aventura em uma casa flutuante, mas sua jornada se torna perigosa quando eles se encontram em um mundo de dinossauros e um vil�o maligno.",
+    "diretor": "Pete Docter",
+    "elencoPrincipal": "Edward Asner, Christopher Plummer, Jordan Nagai",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 87,
+        "generoId": 13
+      },
+      {
+        "filmeId": 87,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "titulo": "O Senhor das Armas",
+    "ano": 2005,
+    "duracaoEmMinutos": 122,
+    "sinopse": "A vida de um traficante de armas ucraniano � documentada desde o seu in�cio, passando por sua ascens�o e queda, at� a sua �ltima miss�o.",
+    "diretor": "Andrew Niccol",
+    "elencoPrincipal": "Nicolas Cage, Jared Leto, Bridget Moynahan",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 88,
+        "generoId": 1
+      },
+      {
+        "filmeId": 88,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "titulo": "A Chegada",
+    "ano": 2016,
+    "duracaoEmMinutos": 116,
+    "sinopse": "A linguista Louise Banks � contratada pelos militares para traduzir a linguagem de alien�genas que pousaram na Terra, e ela deve faz�-lo antes que a tens�o internacional leve a uma guerra intergal�ctica.",
+    "diretor": "Denis Villeneuve",
+    "elencoPrincipal": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 89,
+        "generoId": 6
+      },
+      {
+        "filmeId": 89,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "titulo": "Bastardos Ingl�rios",
+    "ano": 2009,
+    "duracaoEmMinutos": 153,
+    "sinopse": "Na Fran�a ocupada pelos nazistas durante a Segunda Guerra Mundial, um grupo de soldados americanos judeus � encarregado de ca�ar e matar oficiais nazistas. Eles se juntam a uma agente secreta brit�nica, que tamb�m est� em uma miss�o de ca�a.",
+    "diretor": "Quentin Tarantino",
+    "elencoPrincipal": "Brad Pitt, Christoph Waltz, Eli Roth",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 90,
+        "generoId": 9
+      },
+      {
+        "filmeId": 90,
+        "generoId": 12
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "titulo": "Na Natureza Selvagem",
+    "ano": 2007,
+    "duracaoEmMinutos": 148,
+    "sinopse": "Ap�s se formar como o melhor aluno de sua turma, Christopher McCandless decide abandonar sua vida confort�vel para viajar para o Alasca e viver na natureza selvagem, mas sua jornada se torna uma li��o de vida e morte.",
+    "diretor": "Sean Penn",
+    "elencoPrincipal": "Emile Hirsch, Marcia Gay Harden, William Hurt",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/tC8b.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 91,
+        "generoId": 1
+      },
+      {
+        "filmeId": 91,
+        "generoId": 3
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "titulo": "A Bela e a Fera",
+    "ano": 1991,
+    "duracaoEmMinutos": 84,
+    "sinopse": "Uma jovem e inteligente mulher � aprisionada por uma fera em seu castelo, mas ela aprende a amar a fera, e eles se unem para se defender de um vil�o que deseja a morte da fera.",
+    "diretor": "Gary Trousdale, Kirk Wise",
+    "elencoPrincipal": "Paige O'Hara, Robby Benson, Richard White",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 92,
+        "generoId": 13
+      },
+      {
+        "filmeId": 92,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "titulo": "Onde os Fracos N�o T�m Vez",
+    "ano": 2007,
+    "duracaoEmMinutos": 122,
+    "sinopse": "No Texas de 1980, um ca�ador de veados trope�a em uma negocia��o de drogas fracassada e decide fugir com uma mala cheia de dinheiro, mas ele se torna o alvo de um ca�ador de recompensas psicopata.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Josh Brolin, Javier Bardem, Tommy Lee Jones",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/n5O5.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 93,
+        "generoId": 1
+      },
+      {
+        "filmeId": 93,
+        "generoId": 2
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "duracaoEmMinutos": 81,
+    "sinopse": "Um caub�i de brinquedo, o brinquedo favorito de um garoto, se sente amea�ado quando seu dono ganha um novo brinquedo, um astronauta de �ltima gera��o, e eles precisam se unir para escapar de um vil�o.",
+    "diretor": "John Lasseter",
+    "elencoPrincipal": "Tom Hanks, Tim Allen, Don Rickles",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/gTj3.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 94,
+        "generoId": 13
+      },
+      {
+        "filmeId": 94,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "titulo": "O Sil�ncio dos Inocentes",
+    "ano": 1991,
+    "duracaoEmMinutos": 118,
+    "sinopse": "Uma jovem cadete do FBI deve encontrar um assassino em s�rie que est� matando jovens mulheres, e para fazer isso, ela deve obter a ajuda de um psiquiatra brilhante, mas canibal e perigoso.",
+    "diretor": "Jonathan Demme",
+    "elencoPrincipal": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 95,
+        "generoId": 16
+      },
+      {
+        "filmeId": 95,
+        "generoId": 21
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "titulo": "V de Vingan�a",
+    "ano": 2005,
+    "duracaoEmMinutos": 132,
+    "sinopse": "Em uma Inglaterra fascista, um vigilante mascarado, conhecido como V, se une a uma mulher jovem para lutar contra um governo opressor.",
+    "diretor": "James McTeigue",
+    "elencoPrincipal": "Natalie Portman, Hugo Weaving, Stephen Rea",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/vG9k.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 96,
+        "generoId": 5
+      },
+      {
+        "filmeId": 96,
+        "generoId": 6
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "titulo": "O Grande Lebowski",
+    "ano": 1998,
+    "duracaoEmMinutos": 117,
+    "sinopse": "Jeff 'O Cara' Lebowski, um jogador de boliche desempregado, � confundido com um milion�rio, e ele se envolve em um sequestro e extors�o de um plano perigoso.",
+    "diretor": "Joel Coen, Ethan Coen",
+    "elencoPrincipal": "Jeff Bridges, John Goodman, Julianne Moore",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/oJ8C.jpg",
+    "tipoId": 1,
+    "classificacaoId": 2,
+    "generos": [
+      {
+        "filmeId": 97,
+        "generoId": 17
+      },
+      {
+        "filmeId": 97,
+        "generoId": 18
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "titulo": "A Viagem de Chihiro",
+    "ano": 2001,
+    "duracaoEmMinutos": 125,
+    "sinopse": "Durante a mudan�a para um novo sub�rbio, uma garota mal-humorada de 10 anos chamada Chihiro entra em um mundo de deuses, bruxas e esp�ritos, e se torna a aprendiz de uma bruxa para se libertar.",
+    "diretor": "Hayao Miyazaki",
+    "elencoPrincipal": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/sC8o.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 98,
+        "generoId": 13
+      },
+      {
+        "filmeId": 98,
+        "generoId": 14
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "titulo": "O Iluminado",
+    "ano": 1980,
+    "duracaoEmMinutos": 146,
+    "sinopse": "Uma fam�lia, que se muda para um hotel isolado para o inverno, � aterrorizada por uma presen�a sobrenatural maligna, e o pai entra em um frenesi de loucura, enquanto seu filho tem vis�es ps�quicas do passado e do futuro.",
+    "diretor": "Stanley Kubrick",
+    "elencoPrincipal": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/yW6n.jpg",
+    "tipoId": 1,
+    "classificacaoId": 3,
+    "generos": [
+      {
+        "filmeId": 99,
+        "generoId": 15
+      },
+      {
+        "filmeId": 99,
+        "generoId": 16
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "titulo": "A Rede Social",
+    "ano": 2010,
+    "duracaoEmMinutos": 120,
+    "sinopse": "O bilion�rio Mark Zuckerberg, o fundador do Facebook, enfrenta uma a��o judicial de dois irm�os que alegam que ele roubou a ideia do site deles, e de seu co-fundador, que foi injustamente demitido da empresa.",
+    "diretor": "David Fincher",
+    "elencoPrincipal": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "urlPoster": "https://image.tmdb.org/t/p/w500/y1sH.jpg",
+    "tipoId": 1,
+    "classificacaoId": 1,
+    "generos": [
+      {
+        "filmeId": 100,
+        "generoId": 1
+      },
+      {
+        "filmeId": 100,
+        "generoId": 3
+      }
+    ]
+  }
+]

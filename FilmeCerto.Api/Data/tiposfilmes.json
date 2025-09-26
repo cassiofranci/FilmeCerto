@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Filme",
+    "descricao": "Uma produção cinematogr�fica de longa-metragem."
+  },
+  {
+    "id": 2,
+    "nome": "S�rie de TV",
+    "descricao": "Uma série de episódios para televisão ou streaming."
+  },
+  {
+    "id": 3,
+    "nome": "Documentário",
+    "descricao": "Um filme n�o-ficcional destinado a documentar algum aspecto da realidade."
+  },
+  {
+    "id": 4,
+    "nome": "Curta-metragem",
+    "descricao": "Uma produção cinematogr�fica com tempo de duração reduzido."
+  }
+]

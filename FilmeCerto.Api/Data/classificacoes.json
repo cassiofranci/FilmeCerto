@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "sigla": "L",
+    "nome": "Livre",
+    "descricao": "Livre para todos os p�blicos.",
+    "cor": "green"
+  },
+  {
+    "id": 2,
+    "sigla": "10",
+    "nome": "+10 anos",
+    "descricao": "N�o recomendado para menores de 10 anos.",
+    "cor": "blue"
+  },
+  {
+    "id": 3,
+    "sigla": "12",
+    "nome": "+12 anos",
+    "descricao": "N�o recomendado para menores de 12 anos.",
+    "cor": "yellow"
+  },
+  {
+    "id": 4,
+    "sigla": "14",
+    "nome": "+14 anos",
+    "descricao": "N�o recomendado para menores de 14 anos.",
+    "cor": "orange"
+  },
+  {
+    "id": 5,
+    "sigla": "16",
+    "nome": "+16 anos",
+    "descricao": "N�o recomendado para menores de 16 anos.",
+    "cor": "red"
+  }
+]

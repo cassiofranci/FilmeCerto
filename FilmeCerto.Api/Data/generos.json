@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "A��o",
+    "descricao": "Filmes com foco em sequ�ncias de combate e persegui��es."
+  },
+  {
+    "id": 2,
+    "nome": "Com�dia",
+    "descricao": "Filmes cujo objetivo principal � fazer o p�blico rir."
+  },
+  {
+    "id": 3,
+    "nome": "Drama",
+    "descricao": "Filmes que exploram temas s�rios e emocionais."
+  },
+  {
+    "id": 4,
+    "nome": "Fic��o Cient�fica",
+    "descricao": "Filmes baseados em tecnologia futurista ou conceitos n�o provados."
+  },
+  {
+    "id": 5,
+    "nome": "Terror",
+    "descricao": "Filmes projetados para causar medo e repulsa."
+  },
+  {
+    "id": 6,
+    "nome": "Romance",
+    "descricao": "Filmes focados em hist�rias de amor."
+  }
+]

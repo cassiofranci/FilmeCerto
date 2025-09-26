@@ -1,0 +1,13 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "FonteDeDados": "Json", // MariaDB ou Json
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Port=3306;Database=FilmeDB;Uid=usuario;Pwd=senha;"
+  }  
+}
