@@ -6,7 +6,7 @@
 
 **Sistema de Recomendação de Filmes**
 
-⚠️ Este projeto está em desenvolvimento inicial (MVP). Nem todas as funcionalidades estão implementadas.
+⚠️ Este projeto está em desenvolvimento inicial. Nem todas as funcionalidades estão implementadas.
 
 Um sistema web completo para ajudar o usuário a escolher filmes, sugerindo a opção mais adequada com base em preferências como gênero, classificação e tipo.
 
