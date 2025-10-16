@@ -1,10 +1,12 @@
 🎬 FilmeCerto 
 ---
-⚠️ Este projeto está em desenvolvimento inicial (MVP). Nem todas as funcionalidades estão implementadas.
+
 
 [![.NET](https://img.shields.io/badge/.NET-9-blue)](https://dotnet.microsoft.com/)  ![Data Source](https://img.shields.io/badge/Data-Json%20%7C%20MariaDB-orange) [![License: MIT](https://img.shields.io/badge/License-MIT-darkgreen)](https://opensource.org/licenses/MIT)
 
 **Sistema de Recomendação de Filmes**
+
+⚠️ Este projeto está em desenvolvimento inicial (MVP). Nem todas as funcionalidades estão implementadas.
 
 Um sistema web completo para ajudar o usuário a escolher filmes, sugerindo a opção mais adequada com base em preferências como gênero, classificação e tipo.
 
