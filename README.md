@@ -15,7 +15,7 @@ O projeto é construído com **ASP.NET Core** e segue os princípios da **Clean 
 ## Roadmap
 - [x] Estruturação inicial do projeto
 - [ ] Criar modelos de entidade de filmes e gêneros
-- [ ] Implementar persistência JSON
+- [x] Implementar persistência JSON
 - [ ] Implementar persistência MariaDB
 - [ ] Criar API REST para recomendação
 - [ ] Desenvolver front-end básico em Blazor/Web
