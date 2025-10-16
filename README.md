@@ -12,7 +12,7 @@ O projeto é construído com **ASP.NET Core** e segue os princípios da **Clean 
 ---
 ⚠️ Este projeto está em desenvolvimento inicial (MVP). Nem todas as funcionalidades estão implementadas.
 
-## 🛣️ Roadmap
+## Roadmap
 - [x] Estruturação inicial do projeto
 - [ ] Criar modelos de entidade de filmes e gêneros
 - [ ] Implementar persistência JSON
