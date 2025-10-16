@@ -19,6 +19,7 @@ O projeto é construído com **ASP.NET Core** e segue os princípios da **Clean 
 - [ ] Implementar persistência MariaDB
 - [ ] Criar API REST para recomendação
 - [ ] Desenvolver front-end básico em Blazor/Web
+- [ ] Desenvolver Front-end básico em React
 
 ## Arquitetura
 
